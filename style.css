@@ -62,7 +62,6 @@ body * {
   position: relative;
   width: 64px;
   margin: 4px auto;
-  
 }
 
 #switch button {
@@ -71,7 +70,7 @@ body * {
   background: white var(--switch-bg-url) no-repeat center;
   border-radius: 50%;
   border: 0;
-  
+
   position: absolute;
   right: 0;
   z-index: 1;
@@ -84,7 +83,6 @@ body * {
   right: 0;
   left: initial;
 }
-
 
 #switch span {
   display: block;
@@ -110,7 +108,7 @@ ul li a {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
   padding: 16px 24px;
   border-radius: 8px;
   border: 1px solid var(--stroke-color);
